@@ -4,7 +4,7 @@
 }
 .rowicon{
  font-size:3rem;
- color:#ec5b21;
+ color:#eb5d1e;
 }
 /* services */
 .services{
@@ -17,7 +17,7 @@
 }
 .ser-icon{
 	font-size:2rem;
-	color:rgb(243, 84, 36);
+	color:#eb5d1e;
 	margin:auto;
 }
 /* portfolio */
@@ -25,7 +25,7 @@
 	position:relative;
 }
 .active{
-	color:rgb(243, 84, 36) !important;
+	color:#eb5d1e !important;
 }
 .nav-link:hover{
 	color:rgb(243, 84, 36) !important;
@@ -47,7 +47,7 @@
 .prothover .pro-icon iconify-icon{
 	display:flex;
 	background-color:#fff;
-	color:rgb(201, 49, 29);
+	color:#eb5d1e;
 	width:50px;
 	height:50px;
 	margin:auto;
@@ -74,7 +74,7 @@
 	text-align:left;
 }
 .faqe summary:hover{
-	color:rgb(243, 84, 36);
+	color:#eb5d1e;
 }
 .faqe details{
 	border-bottom:0.5px solid #ccc;
@@ -105,7 +105,7 @@
 	line-height:3rem;
 }
 .img-icon iconify-icon:hover{
-	color:rgb(243, 84, 36);
+	color:#eb5d1e;
 }
 .icon-hover{
 	position:absolute ;
@@ -135,7 +135,7 @@
 }
 .iconss{
 	font-size:1.3rem;
-	background-color:rgb(221, 81, 38);
+	background-color:#eb5d1e;
 	color:white;
 	width:40px;
 	height:40px;
@@ -145,7 +145,7 @@
 	align-items:center;
 }	
 .iconss:hover{
-	background-color: rgb(255, 60, 0);
+	background-color:#eb5d1e;
 }
 /* card border none */
 .card{
@@ -162,13 +162,13 @@
 	width:10%;
 	margin:auto;
 	display:flex;
-	background-color:red;
+	background-color:#eb5d1e;
 	top:10px;
 	border-radius:1rem;
 }
 .cont{
-	border-bottom:3px  solid   red ;
-	border-top:3px solid  red ;
+	border-bottom:3px  solid  #eb5d1e;
+	border-top:3px solid #eb5d1e;
 }
 /* .footer */
 .footer{
@@ -179,7 +179,7 @@
 		line-height:2rem;
 }
 .footer ul li a:hover{
-	color:rgb(243, 84, 36);
+	color:#eb5d1e;
 }
 .footer li .ic{
 	color:#a6a6a6;
@@ -200,7 +200,7 @@
 }
 .icons{
 	font-size:1.3rem;
-	background-color:rgb(243, 84, 36);
+	background-color:#eb5d1e;
 	color:white;
 	width:40px;
 	height:40px;
@@ -224,7 +224,7 @@
 	color:black
 }
 .navbar li a:hover{
-	color:#ff8533;
+	color:#eb5d1e;
 }
 .icon-cont p{
 	font-size: 0.8rem;
@@ -254,5 +254,7 @@
 	align-items: center;
 }
 
-
-
+.btncolor{
+	background-color:#eb5d1e;
+	color:white;
+}
